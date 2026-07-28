@@ -1,0 +1,5 @@
+Hello Python
+Welcome to File Handling
+This is a sample text file.
+Python is easy to learn.
+Have a nice day.
